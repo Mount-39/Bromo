@@ -1,0 +1,10 @@
+# IntelliJ project files
+.idea
+
+# Mac files
+.DS_Store
+system/
+
+# Node
+node_modules
+*.log
